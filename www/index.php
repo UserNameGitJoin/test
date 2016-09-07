@@ -1,5 +1,5 @@
 <?php
-phpinfo(1);
+phpinfo();
 /**
  * Created by PhpStorm.
  * User: Admin
