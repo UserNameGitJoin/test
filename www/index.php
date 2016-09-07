@@ -7,4 +7,9 @@ phpinfo();
  * Time: 08:54
  */
  
- $res;
+$res=1;
+
+$res2=2;
+
+$a= $res+$res2;
+echo $a;
